@@ -1,0 +1,11 @@
+.Header{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 50px;
+  font-size: 30px;
+  color: #404040;
+  cursor: pointer;
+  span {
+    margin-right: 10px;
+  }
+}

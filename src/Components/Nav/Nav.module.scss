@@ -4,5 +4,36 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0,0,0, .3);
+  background: rgba(0,0,0, .6);
+  z-index: 10;
+}
+.Nav{
+  font-size: 30px;
+  color: #404040;
+  z-index: 20;
+  transform: translateX(-310px);
+  transition: all .5s ease;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background: #fff;
+  padding: 30px 80px 15px 45px;
+  a{
+    margin: 10px 0;
+    text-decoration: none;
+    color: black;
+  }
+  .icon{
+    position: absolute;
+    left: 280px;
+    top: 40px;
+    color: white;
+    cursor: pointer;
+  }
+  &.active{
+    transform: translateX(0);
+  }
 }
