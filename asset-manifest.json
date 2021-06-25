@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Currency-Exchange-App/static/css/main.7a03c212.chunk.css",
+    "main.js": "/Currency-Exchange-App/static/js/main.3fce7e7a.chunk.js",
+    "main.js.map": "/Currency-Exchange-App/static/js/main.3fce7e7a.chunk.js.map",
+    "runtime-main.js": "/Currency-Exchange-App/static/js/runtime-main.561b97d0.js",
+    "runtime-main.js.map": "/Currency-Exchange-App/static/js/runtime-main.561b97d0.js.map",
+    "static/js/2.4a17a307.chunk.js": "/Currency-Exchange-App/static/js/2.4a17a307.chunk.js",
+    "static/js/2.4a17a307.chunk.js.map": "/Currency-Exchange-App/static/js/2.4a17a307.chunk.js.map",
+    "static/js/3.19638151.chunk.js": "/Currency-Exchange-App/static/js/3.19638151.chunk.js",
+    "static/js/3.19638151.chunk.js.map": "/Currency-Exchange-App/static/js/3.19638151.chunk.js.map",
+    "index.html": "/Currency-Exchange-App/index.html",
+    "static/css/main.7a03c212.chunk.css.map": "/Currency-Exchange-App/static/css/main.7a03c212.chunk.css.map",
+    "static/js/2.4a17a307.chunk.js.LICENSE.txt": "/Currency-Exchange-App/static/js/2.4a17a307.chunk.js.LICENSE.txt",
+    "static/media/european-union.82531138.png": "/Currency-Exchange-App/static/media/european-union.82531138.png",
+    "static/media/russia.d3e8edf0.png": "/Currency-Exchange-App/static/media/russia.d3e8edf0.png",
+    "static/media/united-states.bdcaa975.png": "/Currency-Exchange-App/static/media/united-states.bdcaa975.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.561b97d0.js",
+    "static/js/2.4a17a307.chunk.js",
+    "static/css/main.7a03c212.chunk.css",
+    "static/js/main.3fce7e7a.chunk.js"
+  ]
+}
