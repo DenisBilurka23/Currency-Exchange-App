@@ -1,0 +1,27 @@
+.CurrencyLine{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .currencyField {
+    text-align: center;
+    background-color: #f0f0f0;
+    width: 350px;
+    border-radius: 30px;
+    color: #262626;
+    position: relative;
+    span {
+      font-size: 50px;
+    }
+    .currency {
+      background-color: #d8d7d7;
+      border-radius: 50px;
+      position: absolute;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      right: 0;
+      top: 0;
+      bottom: 0;
+    }
+  }
+}
